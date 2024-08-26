@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="/">
+    <file>icons/close.png</file>
+    <file>icons/full.png</file>
+    <file>icons/info_icon.png</file>
+    <file>icons/menu.png</file>
+    <file>icons/minus.png</file>
+    <file>icons/screen.png</file>
+    <file>icons/train_icon.png</file>
+    <file>icons/triangle.png</file>
+    <file>model.jpg</file>
+  </qresource>
+</RCC>
